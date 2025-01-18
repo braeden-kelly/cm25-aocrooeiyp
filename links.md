@@ -1,0 +1,5 @@
+- https://discord.com/channels/1127340805741359164/1328020395378606171
+- https://github.com/npryce/adr-tools
+- https://github.com/trailheadtechnology
+- https://trailheadtechnology.com/what-are-architecture-design-records-adr-and-how-can-you-get-started-as-a-net-developer/
+- https://trailheadtechnology.com/podcast/s02e06-architecture-decision-records-featuring-mark-richards/
